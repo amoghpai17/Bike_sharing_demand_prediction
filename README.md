@@ -1,11 +1,15 @@
 # Bike_sharing_demand_prediction
 
-Problem Statement
+#Problem Statement
+
+
 The problem is to predict the demand for bike sharing services using machine learning based on historical data and other relevant factors such as weather, time of day, day of the week, holidays, and events. The objective is to optimize inventory, pricing, and marketing strategies to maximize revenue and improve customer satisfaction.
 
 
 
-Project Summary -
+#Project Summary -
+
+
 The given dataset appears to be clean, as there are no null values present. Analysis of the data reveals several interesting insights.
 
 Firstly, the probability of renting a bike is higher in the evening compared to other times of the day. This suggests that people may be using bikes for commuting to and from work. Secondly, the summer season has the highest demand for bike rentals, which is not surprising since it is a popular time for outdoor activities.
